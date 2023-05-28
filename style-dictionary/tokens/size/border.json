@@ -3,49 +3,49 @@
     "radius": {
       "none": {
         "value": "0px",
-        "attributes": { "category": "size", "type": "radius" }
+        "attributes": { "category": "size/px", "type": "radius" }
       },
       "sm": {
         "value": "8px",
-        "attributes": { "category": "size", "type": "radius" }
+        "attributes": { "category": "size/px", "type": "radius" }
       },
       "md": {
         "value": "16px",
-        "attributes": { "category": "size", "type": "radius" }
+        "attributes": { "category": "size/px", "type": "radius" }
       },
       "lg": {
         "value": "24px",
-        "attributes": { "category": "size", "type": "radius" }
+        "attributes": { "category": "size/px", "type": "radius" }
       },
       "pill": {
         "value": "500px",
-        "attributes": { "category": "size", "type": "radius" }
+        "attributes": { "category": "size/px", "type": "radius" }
       },
       "circular": {
         "value": "50%",
-        "attributes": { "category": "size", "type": "radius" }
+        "attributes": { "category": "size/px", "type": "radius" }
       }
     },
     "width": {
       "none": {
         "value": "0px",
-        "attributes": { "category": "size", "type": "width" }
+        "attributes": { "category": "size/px", "type": "width" }
       },
       "hairline": {
         "value": "1px",
-        "attributes": { "category": "size", "type": "width" }
+        "attributes": { "category": "size/px", "type": "width" }
       },
       "thin": {
         "value": "2px",
-        "attributes": { "category": "size", "type": "width" }
+        "attributes": { "category": "size/px", "type": "width" }
       },
       "thick": {
         "value": "4px",
-        "attributes": { "category": "size", "type": "width" }
+        "attributes": { "category": "size/px", "type": "width" }
       },
       "heavy": {
         "value": "8px",
-        "attributes": { "category": "size", "type": "width" }
+        "attributes": { "category": "size/px", "type": "width" }
       }
     }
   }

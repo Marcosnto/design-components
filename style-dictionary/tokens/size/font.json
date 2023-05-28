@@ -3,47 +3,47 @@
     "size": {
       "xxxs": {
         "value": "12px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "xxs": {
         "value": "14px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "xs": {
         "value": "16px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "sm": {
         "value": "20px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "md": {
         "value": "24px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "lg": {
         "value": "32px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "xl": {
         "value": "40px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "xxl": {
         "value": "48px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "xxxl": {
         "value": "64px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "display": {
         "value": "80px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       },
       "giant": {
         "value": "96px",
-        "attributes": { "category": "size", "type": "font" }
+        "attributes": { "category": "size/px", "type": "font" }
       }
     },
     "family": {

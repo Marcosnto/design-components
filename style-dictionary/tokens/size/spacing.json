@@ -3,137 +3,137 @@
     "stack": {
       "quarck": {
         "value": "4px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "nano": {
         "value": "8px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "xxxs": {
         "value": "16px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "xxs": {
         "value": "24px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "xs": {
         "value": "32px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "sm": {
         "value": "40px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "md": {
         "value": "48px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "lg": {
         "value": "56px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "xl": {
         "value": "64px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "xxl": {
         "value": "80px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "xxxl": {
         "value": "120px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "huge": {
         "value": "160px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       },
       "giant": {
         "value": "200px",
-        "attributes": { "category": "size", "type": "spacing" }
+        "attributes": { "category": "size/px", "type": "spacing" }
       }
     },
     "inset": {
       "quarck": {
         "value": "4px",
-        "attributes": { "category": "size", "type": "spacing_inset" }
+        "attributes": { "category": "size/px", "type": "spacing_inset" }
       },
       "nano": {
         "value": "8px",
-        "attributes": { "category": "size", "type": "spacing_inset" }
+        "attributes": { "category": "size/px", "type": "spacing_inset" }
       },
       "xs": {
         "value": "16px",
-        "attributes": { "category": "size", "type": "spacing_inset" }
+        "attributes": { "category": "size/px", "type": "spacing_inset" }
       },
       "sm": {
         "value": "24px",
-        "attributes": { "category": "size", "type": "spacing_inset" }
+        "attributes": { "category": "size/px", "type": "spacing_inset" }
       },
       "md": {
         "value": "32px",
-        "attributes": { "category": "size", "type": "spacing_inset" }
+        "attributes": { "category": "size/px", "type": "spacing_inset" }
       },
       "lg": {
         "value": "40px",
-        "attributes": { "category": "size", "type": "spacing_inset" }
+        "attributes": { "category": "size/px", "type": "spacing_inset" }
       }
     },
     "squish": {
       "quarck": {
         "value": "4px 8px",
-        "attributes": { "category": "size", "type": "spacing_squish" }
+        "attributes": { "category": "size/px", "type": "spacing_squish" }
       },
       "nano": {
         "value": "8px 16px",
-        "attributes": { "category": "size", "type": "spacing_squish" }
+        "attributes": { "category": "size/px", "type": "spacing_squish" }
       },
       "xs": {
         "value": "16px 24px",
-        "attributes": { "category": "size", "type": "spacing_squish" }
+        "attributes": { "category": "size/px", "type": "spacing_squish" }
       },
       "sm": {
         "value": "16px 32px",
-        "attributes": { "category": "size", "type": "spacing_squish" }
+        "attributes": { "category": "size/px", "type": "spacing_squish" }
       }
     },
     "inline": {
       "quarck": {
         "value": "4px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "nano": {
         "value": "8px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "xxxs": {
         "value": "16px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "xxs": {
         "value": "24px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "xs": {
         "value": "32px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "sm": {
         "value": "40px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "md": {
         "value": "48px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "lg": {
         "value": "64px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       },
       "xl": {
         "value": "80px",
-        "attributes": { "category": "size", "type": "spacing_inline" }
+        "attributes": { "category": "size/px", "type": "spacing_inline" }
       }
     }
   }
