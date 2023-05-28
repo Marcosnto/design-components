@@ -1,25 +1,51 @@
 {
   "border": {
-    "size": {
+    "radius": {
       "none": {
         "value": "0px",
-        "attributes": { "category": "size", "type": "border" }
+        "attributes": { "category": "size", "type": "radius" }
+      },
+      "sm": {
+        "value": "8px",
+        "attributes": { "category": "size", "type": "radius" }
+      },
+      "md": {
+        "value": "16px",
+        "attributes": { "category": "size", "type": "radius" }
+      },
+      "lg": {
+        "value": "24px",
+        "attributes": { "category": "size", "type": "radius" }
+      },
+      "pill": {
+        "value": "500px",
+        "attributes": { "category": "size", "type": "radius" }
+      },
+      "circular": {
+        "value": "50%",
+        "attributes": { "category": "size", "type": "radius" }
+      }
+    },
+    "width": {
+      "none": {
+        "value": "0px",
+        "attributes": { "category": "size", "type": "width" }
       },
       "hairline": {
         "value": "1px",
-        "attributes": { "category": "size", "type": "border" }
+        "attributes": { "category": "size", "type": "width" }
       },
       "thin": {
         "value": "2px",
-        "attributes": { "category": "size", "type": "border" }
+        "attributes": { "category": "size", "type": "width" }
       },
       "thick": {
         "value": "4px",
-        "attributes": { "category": "size", "type": "border" }
+        "attributes": { "category": "size", "type": "width" }
       },
       "heavy": {
         "value": "8px",
-        "attributes": { "category": "size", "type": "border" }
+        "attributes": { "category": "size", "type": "width" }
       }
     }
   }
