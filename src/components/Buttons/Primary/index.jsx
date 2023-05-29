@@ -1,11 +1,6 @@
 import "./styles.scss";
 
-export default function PrimaryButton({
-  children,
-  onClick,
-  onBlur,
-  styleClasses,
-}) {
+export default function PrimaryButton({ children, onClick, onBlur, styleClasses = "" }) {
   return (
     <button
       type="button"
