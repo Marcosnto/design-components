@@ -10,7 +10,9 @@ function App() {
   return (
     <Shape styleClasses="shape-main">
       <SmallHeading styleClasses="small-heading-main">Heading SM</SmallHeading>
-      <SmallSubtitle styleClasses="small-subtitle-main">Subtitle</SmallSubtitle>
+      <SmallSubtitle styleClasses="small-subtitle-main">
+        Subtitle SM
+      </SmallSubtitle>
       <Paragraph styleClasses="paragraph-main">
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
