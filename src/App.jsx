@@ -8,7 +8,7 @@ import "./index.scss";
 
 function App() {
   return (
-    <Shape>
+    <Shape styleClasses="shape-main">
       <SmallHeading styleClasses="small-heading-main">Heading SM</SmallHeading>
       <SmallSubtitle styleClasses="small-subtitle-main">Subtitle</SmallSubtitle>
       <Paragraph styleClasses="paragraph-main">

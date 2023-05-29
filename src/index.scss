@@ -14,8 +14,19 @@
 
 body {
   margin: 0;
+  background-color: $color-neutral-03;
   min-width: 320px;
   min-height: 100vh;
+}
+
+#root{
+  display: flex;
+  justify-content: center;
+  padding-top: $spacing-stack-xs;
+}
+
+.shape-main{
+  width: 23%;
 }
 
 .small-heading-main{
