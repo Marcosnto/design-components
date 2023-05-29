@@ -11,7 +11,7 @@ export default {
       name: "Subtitle",
     },
     paragraphContent: {
-      name: "Paragraph Content",
+      name: "Paragraph",
     },
     btnLabel: {
       name: "Button Label",

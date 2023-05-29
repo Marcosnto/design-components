@@ -5,7 +5,7 @@ export default {
   component: Paragraph,
   argTypes: {
     children: {
-      name: "Label",
+      name: "Content",
     },
     styleClasses: {
       table: {

@@ -5,7 +5,7 @@ export default {
   component: SmallHeading,
   argTypes: {
     children: {
-      name: "Label",
+      name: "Content",
     },
     styleClasses: {
       table: {
