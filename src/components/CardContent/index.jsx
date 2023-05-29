@@ -11,7 +11,7 @@ export default function CardContent({
   btnLabel,
 }) {
   return (
-    <Shape styleClasses="shape-main">
+    <Shape>
       <SmallHeading styleClasses="small-heading-main">{heading}</SmallHeading>
       <SmallSubtitle styleClasses="small-subtitle-main">
         {subTitle}
