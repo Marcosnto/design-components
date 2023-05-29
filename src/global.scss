@@ -12,9 +12,14 @@
   -webkit-text-size-adjust: 100%;
 }
 
-body {
+* {
   margin: 0;
-  background-color: $color-neutral-03;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: $color-neutral-04;
   min-width: 320px;
   min-height: 100vh;
 }
