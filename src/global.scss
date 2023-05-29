@@ -27,7 +27,6 @@ body {
 #root{
   display: flex;
   justify-content: center;
-  padding-top: $spacing-stack-xs;
 }
 
 .shape-main{
@@ -35,16 +34,3 @@ body {
   margin-left: 2rem;
   margin-right: 2rem;
 }
-
-.small-heading-main{
-  margin-bottom: $spacing-stack-xxxs;
-}
-
-.small-subtitle-main{
-  margin-bottom: $spacing-stack-xxs;
-}
-
-.paragraph-main{
-  margin-bottom: $spacing-stack-sm;
-}
-

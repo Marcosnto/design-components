@@ -4,6 +4,8 @@ import Paragraph from "../Paragraph";
 import Shape from "../Shape";
 import SmallSubtitle from "../Subtitle/Small";
 
+import "./styles.scss";
+
 export default function CardContent({
   heading,
   subTitle,
