@@ -4,8 +4,6 @@ import Paragraph from "./components/Paragraph";
 import Shape from "./components/Shape";
 import SmallSubtitle from "./components/Subtitle/Small";
 
-import "./index.scss";
-
 function App() {
   return (
     <Shape styleClasses="shape-main">
