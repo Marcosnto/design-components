@@ -45,3 +45,12 @@ Utilizei o <i>Prettier</i> e as regras pré-definidas do Vite no <i>ESlint</i> p
 <li><a href="https://eslint.org/">Eslint</a></li>
 <li><a href="https://prettier.io/">Prettier</a></li>
 </ul>
+  
+## Execução
+
+Para executar o projeto basta utilizar o comando abaixo:
+```bash
+yarn dev
+```
+Abra [http://localhost:5173/](http://localhost:5173/) com o seu navegador para visualizar o projeto.
+
