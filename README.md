@@ -1,4 +1,4 @@
-# Meiuca Components
+# Design Components
 
 O projeto consiste na utilização de regras de design pré definidas para a criação de variáveis de estilos que serão utilizadas na construção de componentes. 
 
